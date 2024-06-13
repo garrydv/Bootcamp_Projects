@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="637bcdea-d80f-4ca4-96a1-28593041c843" name="Changes" comment="Solutions for the first Statement test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Even_Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Even_Numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nums_divby3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesser_Of_Two_Evens.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesser_Of_Two_Evens.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesser_Of_Two_Evens.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,28 +32,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Even_Numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.First_Letter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.FizzBuzz.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Len_Even (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Nums_divby3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.StartswithS.executor&quot;: &quot;Run&quot;,
-    &quot;Python.len_even.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.startswithS.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Even_Numbers.executor": "Run",
+    "Python.First_Letter.executor": "Run",
+    "Python.FizzBuzz.executor": "Run",
+    "Python.Len_Even (1).executor": "Run",
+    "Python.Lesser_Of_Two_Evens (1).executor": "Run",
+    "Python.Nums_divby3.executor": "Run",
+    "Python.StartswithS.executor": "Run",
+    "Python.len_even.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.startswithS.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\aivas\PycharmProjects\Bootcamp projects" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Len_Even (1)">
+  <component name="RunManager" selected="Python.Lesser_Of_Two_Evens (1)">
     <configuration name="First_Letter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Bootcamp projects" />
       <option name="ENV_FILES" value="" />
@@ -143,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lesser_Of_Two_Evens" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lesser_Of_Two_Evens (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Bootcamp projects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,7 +156,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\aivas\PycharmProjects\Bootcamp projects\Lesser_Of_Two_Evens.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesser_Of_Two_Evens.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lesser_Of_Two_Evens (1)" />
         <item itemvalue="Python.Len_Even (1)" />
         <item itemvalue="Python.First_Letter" />
         <item itemvalue="Python.FizzBuzz" />
         <item itemvalue="Python.Len_Even" />
-        <item itemvalue="Python.Lesser_Of_Two_Evens" />
       </list>
     </recent_temporary>
   </component>
