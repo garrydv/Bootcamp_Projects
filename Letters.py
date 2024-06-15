@@ -33,7 +33,7 @@ for word in words:
 ANIMAL CRACKERS: 
 animal_crackers('Levelheaded Llama') --> True
 animal_crackers('Crazy Kangaroo') --> False
-"""
+
 def animal_crackers(text):
     # Split the string into two words
     text1, text2 = text.split()
@@ -47,3 +47,15 @@ def animal_crackers(text):
 print (animal_crackers('Levelheaded Llama'))
 # Check 2
 print(animal_crackers('Crazy Kangaroo'))
+"""
+
+# 5. Capitalizes 1 and 4 letters
+"""
+old_macdonald('macdonald') --> MacDonald
+Note: 'macdonald'.capitalize() returns 'Macdonald'
+
+def old_macdonald(word):
+    return word[0].upper() + word[1:3] + word[3].upper() + word[4:]
+# Check 1
+print(old_macdonald('macdonald'))
+"""

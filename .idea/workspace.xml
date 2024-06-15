@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="637bcdea-d80f-4ca4-96a1-28593041c843" name="Changes" comment="Solutions for the first Statement test">
-      <change afterPath="$PROJECT_DIR$/True_Falls_If_Sum20.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Even_Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Even_Numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/First_Letter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Letters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Len_Even.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesser_Of_Two_Evens.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesser_Of_Two_Evens.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StartswithS.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comprehension.py" beforeDir="false" afterPath="$PROJECT_DIR$/comprehension.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letters.py" beforeDir="false" afterPath="$PROJECT_DIR$/Letters.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +56,7 @@
       <recent name="C:\Users\aivas\PycharmProjects\Bootcamp projects" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.True_Falls_If_Sum20">
+  <component name="RunManager" selected="Python.Letters (1)">
     <configuration name="Len_Even (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Bootcamp projects" />
       <option name="ENV_FILES" value="" />
@@ -197,8 +191,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.True_Falls_If_Sum20" />
         <item itemvalue="Python.Letters (1)" />
+        <item itemvalue="Python.True_Falls_If_Sum20" />
         <item itemvalue="Python.Lesser_Of_Two_Evens (1)" />
         <item itemvalue="Python.Len_Even (1)" />
         <item itemvalue="Python.Letters" />
