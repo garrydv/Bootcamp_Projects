@@ -1,3 +1,5 @@
+# 1. Shows how function comprehension works
+
 def myfunc(*args):
     return [arg for arg in args if arg % 2 == 0]
 
