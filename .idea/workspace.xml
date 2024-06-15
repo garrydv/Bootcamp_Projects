@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="637bcdea-d80f-4ca4-96a1-28593041c843" name="Changes" comment="Solutions for the first Statement test">
-      <change afterPath="$PROJECT_DIR$/Reverse_List.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comprehension.py" beforeDir="false" afterPath="$PROJECT_DIR$/Comprehension.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Even_Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Even_Numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/True_Falls_If_Sum20.py" beforeDir="false" afterPath="$PROJECT_DIR$/True_Falls_If_Less_Or_More.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +58,7 @@
       <recent name="C:\Users\aivas\PycharmProjects\Bootcamp projects" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Reverse_List">
+  <component name="RunManager" selected="Python.True_Falls_If_Less_Or_More">
     <configuration name="Len_Even (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Bootcamp projects" />
       <option name="ENV_FILES" value="" />
@@ -169,7 +169,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="True_Falls_If_Sum20" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="True_Falls_If_Less_Or_More" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Bootcamp projects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -182,7 +182,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/True_Falls_If_Sum20.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\aivas\PycharmProjects\Bootcamp projects\True_Falls_If_Less_Or_More.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,9 +193,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.True_Falls_If_Less_Or_More" />
         <item itemvalue="Python.Reverse_List" />
         <item itemvalue="Python.Letters (1)" />
-        <item itemvalue="Python.True_Falls_If_Sum20" />
         <item itemvalue="Python.Lesser_Of_Two_Evens (1)" />
         <item itemvalue="Python.Len_Even (1)" />
       </list>
