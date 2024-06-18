@@ -5,6 +5,7 @@ To access this class from console:
 from Acc_Balance import Account
 define instance, for eg a = Account("Sam", 100)
 and run it as a.deposit or a.withdrawal
+use quit() command to exit
 """
 
 class Account():
